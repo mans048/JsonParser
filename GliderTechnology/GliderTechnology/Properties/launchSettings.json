@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GliderTechnology": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\mans0\\source\\repos\\GliderTechnology\\InputReadings.csv"
+    }
+  }
+}
